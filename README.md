@@ -3,6 +3,7 @@
 I'm krokoko, A Senior Prototyping Architect working for Amazon Web Services. How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/alainkrok/)
 - [Community AWS](https://community.aws/@alkrok)
+- [Medium](https://medium.com/@alain.krok)
 
 ## 🔧 Interests
 
@@ -12,6 +13,18 @@ I'm krokoko, A Senior Prototyping Architect working for Amazon Web Services. How
 - Robotics
 - Cloud
 - Extreme sports
+
+## Projects
+
+Some project I'm working on:
+
+- [Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
+- [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples)
+- [AWS MCP servers](https://github.com/awslabs/mcp)
+- [Amazon Bedrock AgentCore L2 constructs](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-bedrock-agentcore-alpha-readme.html)
+- [Amazon Bedrock L2 constructs](https://github.com/aws/aws-cdk/tree/main/packages/%40aws-cdk/aws-bedrock-alpha)
+- [Machine Learning at the edge getting started](https://github.com/aws-samples/ml-edge-getting-started)
+- [Terraform SageMaker endpoint](https://github.com/aws-ia/terraform-aws-sagemaker-endpoint)
 
 ## 📔 Blog posts
 
