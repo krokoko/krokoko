@@ -15,6 +15,7 @@ I'm krokoko, A Senior Prototyping Architect working for Amazon Web Services. How
 
 ## 📔 Blog posts
 
+- [Forecasting Santa’s Gift Production with Chronos-2](https://medium.com/@alain.krok/forecasting-santas-gift-production-with-chronos-2-d49ec0a16775)
 - [Orthophotography with OpenDroneMap on AWS](https://aws.amazon.com/fr/blogs/spatial/orthophotography-with-opendronemap-on-aws/)
 - [Announcing Generative AI CDK Constructs](https://aws.amazon.com/fr/blogs/devops/announcing-generative-ai-cdk-constructs/)
 - [Getting started with Projen and AWS CDK](https://aws.amazon.com/fr/blogs/devops/getting-started-with-projen-and-aws-cdk/)
