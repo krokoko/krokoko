@@ -16,7 +16,7 @@ I'm krokoko, A Senior Prototyping Architect working for Amazon Web Services. How
 
 ## Projects
 
-Some project I'm working on:
+Some projects I'm working on:
 
 - [Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
 - [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples)
