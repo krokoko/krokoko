@@ -28,6 +28,7 @@ Some projects I'm working on:
 
 ## 📔 Blog posts
 
+- [Make your codebase AI ready](https://medium.com/@alain.krok/make-your-codebase-ai-ready-05d6a160f1d5)
 - [Forecasting Santa’s Gift Production with Chronos-2](https://medium.com/@alain.krok/forecasting-santas-gift-production-with-chronos-2-d49ec0a16775)
 - [Orthophotography with OpenDroneMap on AWS](https://aws.amazon.com/fr/blogs/spatial/orthophotography-with-opendronemap-on-aws/)
 - [Announcing Generative AI CDK Constructs](https://aws.amazon.com/fr/blogs/devops/announcing-generative-ai-cdk-constructs/)
