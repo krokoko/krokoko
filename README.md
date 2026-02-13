@@ -18,6 +18,7 @@ I'm krokoko, A Senior AI Engineer working for Amazon Web Services. How to reach 
 
 Some projects I'm working on:
 
+- [Agent Plugins for AWS](https://github.com/awslabs/agent-plugins)
 - [Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
 - [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples)
 - [AWS MCP servers](https://github.com/awslabs/mcp)
