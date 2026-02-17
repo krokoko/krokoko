@@ -29,6 +29,7 @@ Some projects I'm working on:
 
 ## 📔 Blog posts
 
+- [Introducing Agent Plugins for AWS](https://aws.amazon.com/blogs/developer/introducing-agent-plugins-for-aws/)
 - [The customization stack for AI coding assistants](https://medium.com/@alain.krok/the-customization-stack-for-ai-coding-assistants-4013b501933c)
 - [Make your codebase AI ready](https://medium.com/@alain.krok/make-your-codebase-ai-ready-05d6a160f1d5)
 - [Forecasting Santa’s Gift Production with Chronos-2](https://medium.com/@alain.krok/forecasting-santas-gift-production-with-chronos-2-d49ec0a16775)
