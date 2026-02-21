@@ -22,7 +22,7 @@ Some projects I'm working on:
 
 - [Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/generative-ai-cdk-constructs)
 
-- [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/generative-ai-cdk-constructs-samples)
+- [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) ![GitHub Repo stars](https://img.shields.io/github/stars/aws-samples/generative-ai-cdk-constructs-samples)
 
 - [AWS MCP servers](https://github.com/awslabs/mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/mcp)
 
