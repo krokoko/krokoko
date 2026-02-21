@@ -18,14 +18,22 @@ I'm krokoko, A Senior AI Engineer working for Amazon Web Services. How to reach 
 
 Some projects I'm working on:
 
-- [Agent Plugins for AWS](https://github.com/awslabs/agent-plugins)
-- [Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs)
-- [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples)
-- [AWS MCP servers](https://github.com/awslabs/mcp)
-- [Amazon Bedrock AgentCore L2 constructs](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-bedrock-agentcore-alpha-readme.html)
-- [Amazon Bedrock L2 constructs](https://github.com/aws/aws-cdk/tree/main/packages/%40aws-cdk/aws-bedrock-alpha)
-- [Machine Learning at the edge getting started](https://github.com/aws-samples/ml-edge-getting-started)
-- [Terraform SageMaker endpoint](https://github.com/aws-ia/terraform-aws-sagemaker-endpoint)
+- [Agent Plugins for AWS](https://github.com/awslabs/agent-plugins) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/agent-plugins)
+
+- [Generative AI CDK Constructs](https://github.com/awslabs/generative-ai-cdk-constructs) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/generative-ai-cdk-constructs)
+
+- [Generative AI CDK Constructs Samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/generative-ai-cdk-constructs-samples)
+
+- [AWS MCP servers](https://github.com/awslabs/mcp) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/mcp)
+
+- [Amazon Bedrock AgentCore L2 constructs](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-bedrock-agentcore-alpha-readme.html) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/mcp)
+
+- [Amazon Bedrock L2 constructs](https://github.com/aws/aws-cdk/tree/main/packages/%40aws-cdk/aws-bedrock-alpha) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/mcp)
+
+- [Machine Learning at the edge getting started](https://github.com/aws-samples/ml-edge-getting-started) ![GitHub Repo stars](https://img.shields.io/github/stars/aws-samples/ml-edge-getting-started)
+
+- [Terraform SageMaker endpoint](https://github.com/aws-ia/terraform-aws-sagemaker-endpoint) ![GitHub Repo stars](https://img.shields.io/github/stars/aws-ia/terraform-aws-sagemaker-endpoint)
+
 
 ## 📔 Blog posts
 
