@@ -18,6 +18,8 @@ I'm krokoko, A Senior AI Engineer working for Amazon Web Services. How to reach 
 
 Some projects I'm working on:
 
+- [Sample Autonomous Cloud Coding Agents on AWS](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/aws-samples/sample-autonomous-cloud-coding-agents)
+
 - [Mów](https://github.com/krokoko/mow) ![GitHub Repo stars](https://img.shields.io/github/stars/krokoko/mow)
 
 - [Agent Plugins for AWS](https://github.com/awslabs/agent-plugins) ![GitHub Repo stars](https://img.shields.io/github/stars/awslabs/agent-plugins)
