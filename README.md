@@ -4,6 +4,7 @@ I'm krokoko, A Senior AI Engineer working for Amazon Web Services. How to reach 
 - [LinkedIn](https://www.linkedin.com/in/alainkrok/)
 - [Community AWS](https://community.aws/@alkrok)
 - [Medium](https://medium.com/@alain.krok)
+- [Cursor profile](https://cursor.com/@krokoko)
 
 ## 🔧 Interests
 
