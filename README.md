@@ -8,6 +8,7 @@ I'm krokoko, A Senior AI Engineer working for Amazon Web Services. How to reach 
 
 ## 🔧 Interests
 
+- Autonomous systems
 - Open Source
 - Industrial IoT
 - AI/ML
